@@ -1,0 +1,23 @@
+#fondo
+{
+	background-image:url(../imagenes/fondo.jpg);
+	background-size:100%,100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+
+#blanco
+{
+	color:white;
+}
+
+#fondoLista
+{
+	background-image:url(../imagenes/fondoLista.jpg);
+	background-size:100%,100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;	
+}
+
+
